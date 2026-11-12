@@ -1,38 +1,41 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Hi%20there,%20I'm%20Rashi%20Koiri%20👋&fontSize=42&fontAlignY=38&desc=B.Tech%202nd%20Year%20Student%20|%20Aspiring%20Software%20Engineer%20|%20Tech%20Enthusiast&descSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Hi%20there,%20I'm%20Rashi%20Koiri%20👋&fontSize=42&fontAlignY=38&desc=B.Tech%202nd%20Year%20Student%20|%20Aspiring%20Software%20Engineer%20|%20Full%20Stack%20Developer&descSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <!-- Catchy Tagline -->
+  <h2>🚀 Full-stack Developer | ⚡ Debugging Wizard | 🎨 UI/UX Enthusiast</h2>
+  <p><i>I love building crazy full-stack apps, experimenting with timelines, and making dashboards look awesome.</i></p>
 
   <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/Rashi-koiri">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=🎓+B.Tech+2nd+Year+Undergraduate;💻+Passionate+Software+Developer+%26+Problem+Solver;🚀+Exploring+Data+Structures+%26+Algorithms;🌐+Full-Stack+Web+Development+Enthusiast;🌱+Always+Learning%2C+Building%2C+and+Innovating" alt="Typing SVG" />
+  <a href="https://github.com/rashikoiri1-tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=🎓+B.Tech+2nd+Year+Undergraduate;💻+Full-Stack+Web+Developer+%26+Tech+Explorer;⚡+Debugging+Wizard+%26+Creative+Problem+Solver;🎨+UI%2FUX+Enthusiast+Building+Modern+Web+Apps;🌱+Always+Learning%2C+Building%2C+and+Innovating" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Profile Quick Badges -->
   <p align="center">
-    <a href="https://github.com/Rashi-koiri">
-      <img src="https://komarev.com/ghpvc/?username=Rashi-koiri&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/rashikoiri1-tech">
+      <img src="https://komarev.com/ghpvc/?username=rashikoiri1-tech&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Status-B.Tech%202nd%20Year-blueviolet?style=flat-square&logo=mortarboard" alt="B.Tech 2nd Year" />
     <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-success?style=flat-square" alt="Open To Opportunities" />
-    <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Web%20Dev-orange?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Full--Stack-orange?style=flat-square" alt="Focus" />
   </p>
 
-  <!-- Social Quick Links -->
+  <!-- Featured Buttons & Quick Connect -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/rashi-koiri" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://rashi1-portfolio-ten.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
     </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/rashi-koiri-73a074384?originalSubdomain=in" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
     <a href="mailto:rashikoiri1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/u/rashi-koiri" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://github.com/Rashi-koiri">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -44,39 +47,58 @@
 
 ```yaml
 name: Rashi Koiri
-degree: Bachelor of Technology (B.Tech - 2nd Year)
-passion: Software Development, Problem Solving & Web Tech
-current_focus: Data Structures & Algorithms, Full-Stack Development
-motto: "Code is like humor. When you have to explain it, it’s bad."
+education: Bachelor of Technology (B.Tech - 2nd Year)
+specialties: [Full-Stack Development, UI/UX Design, Debugging, DSA]
+portfolio: https://rashi1-portfolio-ten.vercel.app/
+motto: "Turning complex bugs into elegant digital experiences ✨"
 ```
 
-- 🎓 **Undergrad Journey:** Currently in my **2nd Year of B.Tech**, strengthening core computer science fundamentals.
-- 💡 **Passionate About:** Building clean, accessible, and high-performance software and web applications.
-- 🔭 **Current Explorations:** Diving deep into **Data Structures & Algorithms (DSA)** in C++/Java and exploring **Full-Stack Web Development**.
-- 🌱 **Learning Curve:** Exploring backend architectures, RESTful APIs, database optimization, and modern web frameworks.
-- 🤝 **Collaborations:** Open to collaborating on open-source projects, hackathons, and innovative student initiatives.
-- 🎯 **Goals for 2026:**
-  - 🧩 Solve 300+ problems on LeetCode & improve algorithmic thinking.
-  - 🛠️ Ship 3+ production-ready full-stack web applications.
-  - 💼 Secure a high-growth Software Engineering Internship.
-- ⚡ **Fun Fact:** When I'm not debugging, you'll find me exploring tech articles, listening to music, or brewing the perfect cup of chai ☕!
+- 🎓 **Engineering Journey:** Currently in my **2nd Year of B.Tech**, diving deep into computer science fundamentals and software architecture.
+- 💻 **What I Do:** Build full-stack web applications from sleek, responsive frontends down to robust backend APIs and databases.
+- 🔭 **Current Focus:** Sharpening **Data Structures & Algorithms (DSA)** in C++/Java and exploring advanced full-stack workflows.
+- 🎨 **UI/UX Passion:** Crafting intuitive user interfaces, micro-interactions, smooth timelines, and clean dashboard experiences.
+- 🎯 **2026 Goals:**
+  - 🚀 Ship scalable production-ready web apps and contribute to open-source.
+  - 🧩 Maintain a consistent daily streak on LeetCode / competitive platforms.
+  - 💼 Land a high-impact Software Development Internship.
+- ⚡ **Fun Fact:** I love building crazy apps at 2 AM with a hot cup of chai and a lo-fi playlist ☕🎧!
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ Tech Stack
 
 <div align="center">
 
-  #### 💻 Languages & Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,react,nextjs,tailwind,bootstrap&perline=12" alt="Languages and Frontend" />
-  </a>
+  <!-- Shields Badges matching user preference -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </p>
 
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </p>
 
-  #### ⚙️ Backend, Databases & Developer Tools
+  <br/>
+
+  <!-- Interactive Icon Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,linux,figma,vercel&perline=12" alt="Backend and Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,mysql,py,cpp,git,github,vscode,postman,linux,vercel&perline=9" alt="Skills Grid" />
   </a>
 
 </div>
@@ -84,17 +106,17 @@ motto: "Code is like humor. When you have to explain it, it’s bad."
 <br/>
 
 <details>
-<summary><b>📂 Click to view detailed skills breakdown</b></summary>
+<summary><b>📂 Click to expand full skills categorization</b></summary>
 <br/>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | C, C++, Java, Python, JavaScript (ES6+), SQL |
-| **Frontend Development** | React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, DOM Manipulation |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, UI/UX Design |
+| **Backend** | Node.js, Express.js, RESTful APIs, Server Architecture |
 | **Databases** | MongoDB, MySQL, PostgreSQL |
-| **Tools & Platforms** | Git, GitHub, Visual Studio Code, Postman, Linux Terminal, Vercel, Netlify |
-| **Core CS Fundamentals** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS, OS Basics |
+| **Languages** | JavaScript, TypeScript, Python, C, C++, Java, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Linux, Vercel, Netlify |
+| **Core Engineering** | Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Web Protocols |
 
 </details>
 
@@ -114,96 +136,71 @@ motto: "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- GitHub Streak & Stats Grid -->
+  <!-- GitHub Streak & Stats Grid with Radical Theme -->
   <table border="0">
     <tr>
-      <td>
-        <a href="https://github.com/Rashi-koiri">
-          <img src="https://github-readme-stats.vercel.app/api?username=Rashi-koiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" alt="Rashi's GitHub Stats" />
+      <td align="center">
+        <a href="https://github.com/rashikoiri1-tech">
+          <img src="https://github-readme-stats.vercel.app/api?username=rashikoiri1-tech&show_icons=true&theme=radical&hide_border=false" alt="Rashi's GitHub Stats" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/Rashi-koiri">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi-koiri&theme=tokyonight&hide_border=true&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&background=0d1117" alt="Rashi's GitHub Streak" />
+      <td align="center">
+        <a href="https://github.com/rashikoiri1-tech">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashikoiri1-tech&theme=radical&hide_border=false" alt="Rashi's GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
 
   <!-- Top Languages Card -->
-  <a href="https://github.com/Rashi-koiri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-koiri&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/Rashi-koiri">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rashi-koiri&theme=dracula&no-frame=true&no-bg=true&margin_w=6&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/rashikoiri1-tech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashikoiri1-tech&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
   </a>
 
 </div>
 
 ---
 
-### 🧩 Problem Solving & Competitive Programming
+### 🚀 Featured Projects
 
 <div align="center">
 
-  <a href="https://leetcode.com/u/rashi-koiri" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/rashikoiri/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/rashi_koiri" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Badges-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/rashi_koiri" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Contests-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" />
-  </a>
-
-</div>
-
----
-
-### 🚀 Featured Projects & Repositories
-
-| Project Name | Tech Stack | Description | Links |
+| Project | Tech Stack | Description | Live Links |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Personal Portfolio** | `React` `Tailwind CSS` `Framer Motion` | Modern, responsive portfolio showcasing projects, achievements & resume. | [Live Demo](https://github.com/Rashi-koiri) / [Source](https://github.com/Rashi-koiri) |
-| 📚 **DSA & Problem Solving Vault** | `C++` `Java` `Python` | Curated solutions for 300+ algorithmic problems across LeetCode & GFG. | [Source](https://github.com/Rashi-koiri) |
-| 🛒 **Full-Stack Web App** | `MongoDB` `Express` `React` `Node.js` | Feature-rich web application with authentication, REST APIs & cloud database. | [Live Demo](https://github.com/Rashi-koiri) / [Source](https://github.com/Rashi-koiri) |
+| 🌐 **[Rashi's Portfolio](https://rashi1-portfolio-ten.vercel.app/)** | `TypeScript` `React` `Tailwind` `Vite` | Sleek personal developer portfolio featuring interactive UI, project showcases, and responsive design. | [**Live Demo**](https://rashi1-portfolio-ten.vercel.app/) / [**Code**](https://github.com/rashikoiri1-tech/rashi-portfolio) |
+| 📄 **[Resume Scanner](https://github.com/rashikoiri1-tech/resume-scanner)** | `Python` `NLP` `Streamlit` | Intelligent resume screening tool parsing skills, formatting, and matching job descriptions. | [**Code**](https://github.com/rashikoiri1-tech/resume-scanner) |
+| 🌦️ **[Weather App](https://github.com/rashikoiri1-tech/Weather_app)** | `JavaScript` `HTML5` `CSS3` `APIs` | Real-time weather forecasting application with live temperature, humidity, and location tracking. | [**Code**](https://github.com/rashikoiri1-tech/Weather_app) |
+| 🌿 **[Pollution Detection](https://github.com/rashikoiri1-tech/Pollution_Analysis_Dtection)** | `Python` `Data Analysis` `ML` | Environmental analysis and pollution monitoring system analyzing air quality indicators. | [**Code**](https://github.com/rashikoiri1-tech/Pollution_Analysis_Dtection) |
+
+</div>
 
 ---
 
-### 📫 Connect With Me
+### 🌈 Connect With Me
 
 <div align="center">
 
-  <p>I love discussing technology, software engineering, open source, and innovative ideas! Feel free to reach out:</p>
+  <p>Got a project idea, opportunity, or just want to chat about tech? Let's connect!</p>
 
-  <a href="https://www.linkedin.com/in/rashi-koiri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Exact Connect With Me badge style from your screenshot -->
+  <a href="https://github.com/rashikoiri1-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-RASHIKOIRI1--TECH-black?style=for-the-badge&logo=github&labelColor=555555" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rashi-koiri-73a074384?originalSubdomain=in" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-RASHI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://rashi1-portfolio-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-FF6B00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=555555" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:rashikoiri1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/GMAIL-RASHIKOIRI1-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email" />
   </a>
 
 </div>
@@ -213,14 +210,14 @@ motto: "Code is like humor. When you have to explain it, it’s bad."
 <div align="center">
 
   <!-- Random Dev Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
   <br/><br/>
 
   <!-- Footer Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-  <p><b>⭐️ If you like what you see, consider giving this repo a star! ⭐️</b></p>
+  <p><b>⭐️ If you like what you see, consider giving my repos a star! ⭐️</b></p>
   <p><i>Crafted with ❤️ by Rashi Koiri • Keep coding, keep growing 🚀</i></p>
 
 </div>
