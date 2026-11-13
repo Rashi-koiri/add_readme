@@ -208,6 +208,17 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   </p>
 </blockquote>
 
+<blockquote>
+  <h4>📦 <b>4th (Fourth Repository)</b>: <a href="https://github.com/Rashi-koiri/weather_app"><code>weather_app</code></a> <img src="https://img.shields.io/badge/Public-238636?style=flat-square&logo=github" alt="Public" /></h4>
+  <p>📝 Exciting project in active development.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Language-JavaScript-6366f1?style=flat-square" alt="Language" />
+    <img src="https://img.shields.io/badge/Stars-⭐%200-yellow?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/badge/Created-Nov%2013,%202026-blue?style=flat-square" alt="Date" />
+    <a href="https://github.com/Rashi-koiri/weather_app"><img src="https://img.shields.io/badge/Explore-View%20Repository%20↗-success?style=flat-square" alt="Explore" /></a>
+  </p>
+</blockquote>
+
 </div>
 
 
@@ -216,6 +227,7 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 | <b>1st Repo</b> | [`readme`](https://github.com/Rashi-koiri/readme) | `Code` | Nov 12, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/readme) |
 | <b>2nd Repo</b> | [`add_readme`](https://github.com/Rashi-koiri/add_readme) | `Code` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/add_readme) |
 | <b>3rd Repo</b> | [`portfolio`](https://github.com/Rashi-koiri/portfolio) | `TypeScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/portfolio) |
+| <b>4th Repo</b> | [`weather_app`](https://github.com/Rashi-koiri/weather_app) | `JavaScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/weather_app) |
 
 
 <!-- REPOSITORIES_TIMELINE:END -->
