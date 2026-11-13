@@ -49,7 +49,6 @@
 name: Rashi Koiri
 education: Bachelor of Technology (B.Tech - 2nd Year)
 specialties: [Full-Stack Development, UI/UX Design, Debugging, DSA]
-portfolio: https://rashi1-portfolio-ten.vercel.app/
 linkedin: https://www.linkedin.com/in/rashi-koiri-73a074384?originalSubdomain=in
 motto: "Turning complex bugs into elegant digital experiences ✨"
 ```
@@ -114,9 +113,9 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, UI/UX Design |
 | **Backend** | Node.js, Express.js, RESTful APIs, Server Architecture |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **Languages** | JavaScript, TypeScript, Python, C, C++, Java, SQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Linux, Vercel, Netlify |
+| **Databases** |  MySQL, PostgreSQL |
+| **Languages** | JavaScript, Python, C, C++, Java, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Postman, Linux, Vercel,Figma |
 | **Core Engineering** | Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Web Protocols |
 
 </details>
