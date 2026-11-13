@@ -129,9 +129,9 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashi-koiri/readme/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashi-koiri/readme/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Rashi-koiri/readme/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashi-koiri/add_readme/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashi-koiri/add_readme/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Rashi-koiri/add_readme/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -267,3 +267,4 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   <p><i>Crafted with ❤️ by Rashi Koiri • Keep coding, keep growing 🚀</i></p>
 
 </div>
+
