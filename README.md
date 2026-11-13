@@ -8,7 +8,7 @@
   <p><i>I love building crazy full-stack apps, experimenting with timelines, and making dashboards look awesome.</i></p>
 
   <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/rashikoiri1-tech">
+  <a href="https://github.com/Rashi-koiri">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=🎓+B.Tech+2nd+Year+Undergraduate;💻+Full-Stack+Web+Developer+%26+Tech+Explorer;⚡+Debugging+Wizard+%26+Creative+Problem+Solver;🎨+UI%2FUX+Enthusiast+Building+Modern+Web+Apps;🌱+Always+Learning%2C+Building%2C+and+Innovating" alt="Typing SVG" />
   </a>
 
@@ -16,8 +16,8 @@
 
   <!-- Profile Quick Badges -->
   <p align="center">
-    <a href="https://github.com/rashikoiri1-tech">
-      <img src="https://komarev.com/ghpvc/?username=rashikoiri1-tech&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/Rashi-koiri">
+      <img src="https://komarev.com/ghpvc/?username=Rashi-koiri&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Status-B.Tech%202nd%20Year-blueviolet?style=flat-square&logo=mortarboard" alt="B.Tech 2nd Year" />
     <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-success?style=flat-square" alt="Open To Opportunities" />
@@ -50,6 +50,7 @@ name: Rashi Koiri
 education: Bachelor of Technology (B.Tech - 2nd Year)
 specialties: [Full-Stack Development, UI/UX Design, Debugging, DSA]
 portfolio: https://rashi1-portfolio-ten.vercel.app/
+linkedin: https://www.linkedin.com/in/rashi-koiri-73a074384?originalSubdomain=in
 motto: "Turning complex bugs into elegant digital experiences ✨"
 ```
 
@@ -144,37 +145,70 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   <table border="0">
     <tr>
       <td align="center">
-        <a href="https://github.com/rashikoiri1-tech">
-          <img src="https://github-readme-stats.vercel.app/api?username=rashikoiri1-tech&show_icons=true&theme=radical&hide_border=false" alt="Rashi's GitHub Stats" />
+        <a href="https://github.com/Rashi-koiri">
+          <img src="https://github-readme-stats.vercel.app/api?username=Rashi-koiri&show_icons=true&theme=radical&hide_border=false" alt="Rashi's GitHub Stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/rashikoiri1-tech">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashikoiri1-tech&theme=radical&hide_border=false" alt="Rashi's GitHub Streak" />
+        <a href="https://github.com/Rashi-koiri">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi-koiri&theme=radical&hide_border=false" alt="Rashi's GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
 
   <!-- Top Languages Card -->
-  <a href="https://github.com/rashikoiri1-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashikoiri1-tech&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/Rashi-koiri">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-koiri&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
   </a>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🛸 My Repositories & Milestone Journey
+
+> *This timeline updates automatically! Whenever a new repository is added to [Rashi-koiri](https://github.com/Rashi-koiri), it will automatically appear below in sequential order (1st Repository, 2nd Repository, 3rd Repository, and so on).* ✨
+
+<!-- REPOSITORIES_TIMELINE:START -->
+
+<!-- Generated automatically by GitHub Action. Do not edit manually! -->
+
+<div align="left">
+
+<blockquote>
+  <h4>🛸 <b>1st (First Repository)</b>: <a href="https://github.com/Rashi-koiri/readme"><code>readme</code></a> <img src="https://img.shields.io/badge/Public-238636?style=flat-square&logo=github" alt="Public" /></h4>
+  <p>📝 Exciting project in active development.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Language-General-6366f1?style=flat-square" alt="Language" />
+    <img src="https://img.shields.io/badge/Stars-⭐%200-yellow?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/badge/Created-Nov%2012,%202026-blue?style=flat-square" alt="Date" />
+    <a href="https://github.com/Rashi-koiri/readme"><img src="https://img.shields.io/badge/Explore-View%20Repository%20↗-success?style=flat-square" alt="Explore" /></a>
+  </p>
+</blockquote>
+
+</div>
+
+
+| Milestone | Repository | Primary Language | Created On | Quick Link |
+| :---: | :--- | :---: | :---: | :---: |
+| <b>1st Repo</b> | [`readme`](https://github.com/Rashi-koiri/readme) | `Code` | Nov 12, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/readme) |
+
+
+<!-- REPOSITORIES_TIMELINE:END -->
+
+---
+
+### 🚀 Featured Projects & Creations
 
 <div align="center">
 
 | Project | Tech Stack | Description | Live Links |
 | :--- | :--- | :--- | :---: |
-| 🌐 **[Rashi's Portfolio](https://rashi1-portfolio-ten.vercel.app/)** | `TypeScript` `React` `Tailwind` `Vite` | Sleek personal developer portfolio featuring interactive UI, project showcases, and responsive design. | [**Live Demo**](https://rashi1-portfolio-ten.vercel.app/) / [**Code**](https://github.com/rashikoiri1-tech/rashi-portfolio) |
-| 📄 **[Resume Scanner](https://github.com/rashikoiri1-tech/resume-scanner)** | `Python` `NLP` `Streamlit` | Intelligent resume screening tool parsing skills, formatting, and matching job descriptions. | [**Code**](https://github.com/rashikoiri1-tech/resume-scanner) |
-| 🌦️ **[Weather App](https://github.com/rashikoiri1-tech/Weather_app)** | `JavaScript` `HTML5` `CSS3` `APIs` | Real-time weather forecasting application with live temperature, humidity, and location tracking. | [**Code**](https://github.com/rashikoiri1-tech/Weather_app) |
-| 🌿 **[Pollution Detection](https://github.com/rashikoiri1-tech/Pollution_Analysis_Dtection)** | `Python` `Data Analysis` `ML` | Environmental analysis and pollution monitoring system analyzing air quality indicators. | [**Code**](https://github.com/rashikoiri1-tech/Pollution_Analysis_Dtection) |
+| 🌐 **[Rashi's Portfolio](https://rashi1-portfolio-ten.vercel.app/)** | `TypeScript` `React` `Tailwind` `Vite` | Sleek personal developer portfolio featuring interactive UI, project showcases, and responsive design. | [**Live Demo**](https://rashi1-portfolio-ten.vercel.app/) / [**Code**](https://github.com/Rashi-koiri) |
+| 📄 **Resume Scanner** | `Python` `NLP` `Streamlit` | Intelligent resume screening tool parsing skills, formatting, and matching job descriptions. | [**Code**](https://github.com/Rashi-koiri) |
+| 🌦️ **Weather App** | `JavaScript` `HTML5` `CSS3` `APIs` | Real-time weather forecasting application with live temperature, humidity, and location tracking. | [**Code**](https://github.com/Rashi-koiri) |
+| 🌿 **Pollution Detection** | `Python` `Data Analysis` `ML` | Environmental analysis and pollution monitoring system analyzing air quality indicators. | [**Code**](https://github.com/Rashi-koiri) |
 
 </div>
 
@@ -187,8 +221,8 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   <p>Got a project idea, opportunity, or just want to chat about tech? Let's connect!</p>
 
   <!-- Exact Connect With Me badge style from your screenshot -->
-  <a href="https://github.com/rashikoiri1-tech" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-RASHIKOIRI1--TECH-black?style=for-the-badge&logo=github&labelColor=555555" alt="GitHub" />
+  <a href="https://github.com/Rashi-koiri" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-RASHI--KOIRI-black?style=for-the-badge&logo=github&labelColor=555555" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rashi-koiri-73a074384?originalSubdomain=in" target="_blank">
@@ -217,7 +251,7 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   <!-- Footer Waving Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-  <p><b>⭐️ If you like what you see, consider giving my repos a star! ⭐️</b></p>
+  <p><b>⭐️ If you like what you see, consider giving this repo a star! ⭐️</b></p>
   <p><i>Crafted with ❤️ by Rashi Koiri • Keep coding, keep growing 🚀</i></p>
 
 </div>
