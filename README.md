@@ -219,6 +219,17 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
   </p>
 </blockquote>
 
+<blockquote>
+  <h4>📦 <b>5th (Fifth Repository)</b>: <a href="https://github.com/Rashi-koiri/Soil_detection_prediction_crops"><code>Soil_detection_prediction_crops</code></a> <img src="https://img.shields.io/badge/Public-238636?style=flat-square&logo=github" alt="Public" /></h4>
+  <p>📝 Exciting project in active development.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Language-Python-6366f1?style=flat-square" alt="Language" />
+    <img src="https://img.shields.io/badge/Stars-⭐%200-yellow?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/badge/Created-Nov%2023,%202026-blue?style=flat-square" alt="Date" />
+    <a href="https://github.com/Rashi-koiri/Soil_detection_prediction_crops"><img src="https://img.shields.io/badge/Explore-View%20Repository%20↗-success?style=flat-square" alt="Explore" /></a>
+  </p>
+</blockquote>
+
 </div>
 
 
@@ -228,6 +239,7 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 | <b>2nd Repo</b> | [`add_readme`](https://github.com/Rashi-koiri/add_readme) | `Code` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/add_readme) |
 | <b>3rd Repo</b> | [`portfolio`](https://github.com/Rashi-koiri/portfolio) | `TypeScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/portfolio) |
 | <b>4th Repo</b> | [`weather_app`](https://github.com/Rashi-koiri/weather_app) | `JavaScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/weather_app) |
+| <b>5th Repo</b> | [`Soil_detection_prediction_crops`](https://github.com/Rashi-koiri/Soil_detection_prediction_crops) | `Python` | Nov 23, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/Soil_detection_prediction_crops) |
 
 
 <!-- REPOSITORIES_TIMELINE:END -->
