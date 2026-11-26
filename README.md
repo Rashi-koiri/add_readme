@@ -176,13 +176,13 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 <div align="left">
 
 <blockquote>
-  <h4>🛸 <b>1st (First Repository)</b>: <a href="https://github.com/Rashi-koiri/readme"><code>readme</code></a> <img src="https://img.shields.io/badge/Public-238636?style=flat-square&logo=github" alt="Public" /></h4>
+  <h4>🛸 <b>1st (First Repository)</b>: <a href="https://github.com/Rashi-koiri/Rashi-koiri"><code>Rashi-koiri</code></a> <img src="https://img.shields.io/badge/Public-238636?style=flat-square&logo=github" alt="Public" /></h4>
   <p>📝 Exciting project in active development.</p>
   <p>
     <img src="https://img.shields.io/badge/Language-General-6366f1?style=flat-square" alt="Language" />
     <img src="https://img.shields.io/badge/Stars-⭐%200-yellow?style=flat-square" alt="Stars" />
     <img src="https://img.shields.io/badge/Created-Nov%2012,%202026-blue?style=flat-square" alt="Date" />
-    <a href="https://github.com/Rashi-koiri/readme"><img src="https://img.shields.io/badge/Explore-View%20Repository%20↗-success?style=flat-square" alt="Explore" /></a>
+    <a href="https://github.com/Rashi-koiri/Rashi-koiri"><img src="https://img.shields.io/badge/Explore-View%20Repository%20↗-success?style=flat-square" alt="Explore" /></a>
   </p>
 </blockquote>
 
@@ -235,7 +235,7 @@ motto: "Turning complex bugs into elegant digital experiences ✨"
 
 | Milestone | Repository | Primary Language | Created On | Quick Link |
 | :---: | :--- | :---: | :---: | :---: |
-| <b>1st Repo</b> | [`readme`](https://github.com/Rashi-koiri/readme) | `Code` | Nov 12, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/readme) |
+| <b>1st Repo</b> | [`Rashi-koiri`](https://github.com/Rashi-koiri/Rashi-koiri) | `Code` | Nov 12, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/Rashi-koiri) |
 | <b>2nd Repo</b> | [`add_readme`](https://github.com/Rashi-koiri/add_readme) | `Code` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/add_readme) |
 | <b>3rd Repo</b> | [`portfolio`](https://github.com/Rashi-koiri/portfolio) | `TypeScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/portfolio) |
 | <b>4th Repo</b> | [`weather_app`](https://github.com/Rashi-koiri/weather_app) | `JavaScript` | Nov 13, 2026 | [Open Repo ↗](https://github.com/Rashi-koiri/weather_app) |
